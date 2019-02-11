@@ -1,6 +1,6 @@
 # json-to-csv
 Simple JSON to CSV project
 
-'npm install
+`npm install`
 
-''''node src/index.js
+`node src/index.js`
