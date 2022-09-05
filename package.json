@@ -12,6 +12,10 @@
   "dependencies": {
     "json-2-csv": "^3.3.0",
     "json2csv": "^4.3.3",
+<<<<<<< HEAD
     "xlsx": "^0.18.5"
+=======
+    "xlsx": "^0.17.0"
+>>>>>>> 97ecde7b0e505b6fd7408ead046cfcc6cbc53d65
   }
 }
